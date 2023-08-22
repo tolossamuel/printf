@@ -1,1 +1,0 @@
-test the projects function in main.c file
